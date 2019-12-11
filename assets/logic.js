@@ -10,3 +10,10 @@ var base = 0;
 var nameArr = ["decimal", "", "binary", "tertiary", "quaternary", "quinary", "senary", "septenary", "octal", "nonary", "other"];
 var name = nameArr[base];
 
+function baseConverter(num){
+    
+    console.log(num);
+    
+};
+
+baseConverter(num)
